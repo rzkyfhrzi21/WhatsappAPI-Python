@@ -5,7 +5,6 @@ To start sending messages from WhatsApp API you will need to have the access tok
 Setup command :
 #For Windows Machine
 pip install  --upgrade heyoo
-
 #For Linux | MAC Machine
 pip3 install --upgrade heyoo
 
