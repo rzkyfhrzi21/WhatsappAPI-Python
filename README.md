@@ -22,3 +22,5 @@ pip3 install --upgrade heyoo
 5. Now you have to re-enter your password for final confirmation to create an app. Once you have entered it and pressed the submit button to continue further.
 6. Scroll down to WhatsApp in this section and click on the setup button as shown below.
 7. After clicking the setup page you will land on the below page where you will get the access token, and phone number id which will be used in our python script. Finally, you have to verify the phone number to which you want to send the message. You will receive an OTP for verification and you are done with the setup. Now you can test the app by clicking on the send message from the dashboard or the python script described above.
+
+Source : https://medium.com/@today.rafi/whatsapp-cloud-api-how-to-send-whatsapp-messages-from-python-9baa03c93b5d#dadc
