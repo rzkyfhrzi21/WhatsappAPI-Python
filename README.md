@@ -3,10 +3,10 @@ Whatsapp Cloud API: How to send WhatsApp messages from Python?
 To start sending messages from WhatsApp API you will need to have the access token and phone number id which you will get by following the steps given below from the Facebook developer account. Once we get the credentials, they will be used in the python script to send messages to WhatsApp.
 
 Setup command :
-#For Windows Machine
-pip install  --upgrade heyoo
-#For Linux | MAC Machine
-pip3 install --upgrade heyoo
+# For Windows Machine
+#pip install  --upgrade heyoo
+# For Linux | MAC Machine
+#pip3 install --upgrade heyoo
 
 # Setup for credentials
 1. Goto the Facebook developer page: developers. facebook.com and click on the My Apps in the top right corner of the page to create an app.
